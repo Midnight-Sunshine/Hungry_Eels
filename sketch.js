@@ -35,6 +35,7 @@ function preload() {
   fishImages.push(fishImage);
   requinImage = loadImage('assets/requin.png');
   eelImage = loadImage('assets/eel.png');
+  obstacleImage = loadImage('assets/mine.png');
 }
 
 function setup() {
@@ -268,7 +269,7 @@ function keyPressed() {
     sharks.push(newShark);
   } else if (key === 'o') {
     // creer un obstacle à la position de la souris
-    obstacles.push(new Obstacle(mouseX, mouseY, random(20, 100), "green"));
+    obstacles.push(new Obstacle(mouseX, mouseY, random(20, 100), obstacleImage));
   } else if (key === 'f') {
     x = random(width);
     y = random(height);
