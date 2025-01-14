@@ -1,4 +1,4 @@
-🐟 #Hungry_Eels
+🐟 Hungry_Eels
 
 
 Bienvenue dans l'océan des boids ! 🌊
