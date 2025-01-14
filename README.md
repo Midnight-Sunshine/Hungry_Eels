@@ -1,4 +1,6 @@
-🐟 Hungry_Eels
+🐟 #Hungry_Eels
+
+
 Bienvenue dans l'océan des boids ! 🌊
 Description du Projet 🐠
 Ce projet est une simulation interactive inspirée de l'algorithme des boids (flocking) de Daniel Shiffman. Le but est de créer un écosystème vivant avec des poissons et des requins, où chaque entité suit des comportements spécifiques. Voici les fonctionnalités que nous avons ajoutées :
